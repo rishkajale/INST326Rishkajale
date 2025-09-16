@@ -1,0 +1,34 @@
+Rish Kajale Week 1 AI Journal
+This week I used AI to help me with some syntax questions that I had as I am learning python. 
+I also asked AI to help me use the VS Code app about some questions that I had about how to do some basic things.
+AI also assisted me with debugging some of my code. 
+I used AI for some specific questions about the excersise for something I didnt know how to do. 
+I used the AI which was in the VS code I will paste some of my questions here.
+
+how to use f string
+
+An f-string in Python is a way to format strings using curly braces {} to insert variables or expressions directly into the string. You create an f-string by prefixing the string with the letter f.
+
+how to make ure i dont get negative amount in arithmatic
+
+To ensure you don’t get a negative amount in arithmetic (for example, when calculating a late fee), use the max() function to keep the value at least zero.
+
+For your code, you should:
+
+Convert the input to an integer correctly.
+Use max() to make sure days_late is not negative.
+Example fix:
+
+
+
+how do i save and export this whole thing
+
+To save your notebook, just click the save icon (💾) or press Cmd+S (on Mac) while the notebook is open in VS Code.
+
+To export your notebook:
+
+Open the notebook in VS Code.
+Click the “Export” button at the top right (it may look like an arrow or say “Export”).
+Choose your format (e.g., PDF, HTML, or Python script).
+Follow the prompts to save the exported file.
+Your notebook will be saved and exported in the format you choose.
