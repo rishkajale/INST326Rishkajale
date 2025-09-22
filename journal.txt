@@ -32,3 +32,23 @@ Click the “Export” button at the top right (it may look like an arrow or say
 Choose your format (e.g., PDF, HTML, or Python script).
 Follow the prompts to save the exported file.
 Your notebook will be saved and exported in the format you choose.
+
+WEEK 2 AI JOURNAL
+This week I used AI to help me with loops. I maily used the assistance of AI to help me learn and refine my skills with for loops. 
+how do i use for loops in python
+ChatGPT said:
+
+In Python, a for loop is used to iterate over a sequence like a list, tuple, string, or range. Here's the basic syntax and a few common examples:
+
+I also needed assistance with some syntax questions that I had. 
+index in lists
+ChatGPT said:
+
+In Python, you can access elements in a list by their index. Indexing starts at 0, so the first element is at index 0, the second at index 1, and so on.
+
+🔢 Accessing Items by Index
+my_list = ['a', 'b', 'c', 'd']
+
+print(my_list[0])  # Output: 'a'
+print(my_list[2])  # Output: 'c'
+
