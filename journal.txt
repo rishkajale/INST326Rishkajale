@@ -52,3 +52,29 @@ my_list = ['a', 'b', 'c', 'd']
 print(my_list[0])  # Output: 'a'
 print(my_list[2])  # Output: 'c'
 
+WEEK 3 AI JOURNAL
+This week i used Ai to help me learn functions and more about indexes
+I knew the basic but AI explained it more to me to help me understand it and use it
+
+AI said
+Indexes in Python are how you access elements in sequences like lists, strings, or tuples. Let me break it down step by step:
+
+1. Basic idea
+
+Each element in a sequence has a number (its index) starting from 0.
+
+fruits = ["apple", "banana", "cherry"]
+print(fruits[0])  # apple
+print(fruits[1])  # banana
+print(fruits[2])  # cherry
+
+
+fruits[0] → first element
+
+fruits[1] → second element
+
+fruits[2] → third element
+
+Explain this function:
+AI saidL
+The function validate_record(title, author) ensures that both the title and author are meaningful strings, not just empty or whitespace-only inputs. It first uses .strip() on each string to remove any leading or trailing spaces, because spaces alone don’t count as valid content. Then it checks whether each stripped string is non-empty. Only if both strings contain actual characters does the function return True; otherwise, it returns False. This is useful for validating data before adding it to a library or database, preventing entries with missing or blank information from being saved.
