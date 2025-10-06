@@ -78,3 +78,27 @@ fruits[2] → third element
 Explain this function:
 AI saidL
 The function validate_record(title, author) ensures that both the title and author are meaningful strings, not just empty or whitespace-only inputs. It first uses .strip() on each string to remove any leading or trailing spaces, because spaces alone don’t count as valid content. Then it checks whether each stripped string is non-empty. Only if both strings contain actual characters does the function return True; otherwise, it returns False. This is useful for validating data before adding it to a library or database, preventing entries with missing or blank information from being saved.
+
+
+
+
+WEEK 4 AI JOUNRAL
+this week I asked Ai to help me with classes.
+I also asked Ai to help me to debug certain errors
+A class is like a blueprint for creating objects. Objects are instances of a class. Classes let you group data (attributes) and behavior (methods) together.
+Think of it like this:
+Class → blueprint of a car
+Object → a specific car you own
+Attributes → color, make, model of the car
+Methods → start(), stop(), honk()
+2. Basic syntax
+class ClassName:
+    def __init__(self, attribute1, attribute2):
+        self.attribute1 = attribute1
+        self.attribute2 = attribute2
+
+    def method1(self):
+        # code for behavior
+        pass
+
+
