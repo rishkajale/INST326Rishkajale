@@ -158,6 +158,30 @@ AI also explained the difference between local and global variables, and how sco
 
 
 
+WEEK 7 AI JOUNRAL
+This week I used AI to go deeper into classes and how to make them more useful.
+I asked AI to explain how to add properties, private attributes, and special methods to a class.
+
+example:
+class Player:
+ def init(self, name, position):
+  self.__name = name
+  self.position = position
+
+ @property
+ def name(self):
+  return self.__name
+
+ def display_info(self):
+  print(f"Player: {self.name}, Position: {self.position}")
+
+p1 = Player("John", "Quarterback")
+p1.display_info()
+
+
+
+
+
 
 
 
