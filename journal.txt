@@ -137,6 +137,31 @@ AI also helped me understand why inheritance is useful—it avoids code repetiti
 
 
 
+WEEK 6 AI JOURNAL
+This week I used AI to better understand variables in Python and how to use them effectively in my programs.
+
+what are variables in python
+AI said:
+Variables are used to store information that can be reused and changed later. They act like labeled containers that hold data values such as numbers, text, or lists.
+
+Example:
+team_name = "Maryland Terrapins"
+score = 42
+is_home_game = True
+
+print(team_name, score, is_home_game)
+
+AI also explained the difference between local and global variables, and how scope determines where a variable can be used in a program. I learned that naming variables clearly helps keep the code organized and easier to understand.
+
+
+
+
+
+
+
+
+
+
 
 
 
