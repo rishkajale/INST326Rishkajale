@@ -33,6 +33,10 @@ Choose your format (e.g., PDF, HTML, or Python script).
 Follow the prompts to save the exported file.
 Your notebook will be saved and exported in the format you choose.
 
+
+
+
+
 WEEK 2 AI JOURNAL
 This week I used AI to help me with loops. I maily used the assistance of AI to help me learn and refine my skills with for loops. 
 how do i use for loops in python
@@ -51,6 +55,11 @@ my_list = ['a', 'b', 'c', 'd']
 
 print(my_list[0])  # Output: 'a'
 print(my_list[2])  # Output: 'c'
+
+
+
+
+
 
 WEEK 3 AI JOURNAL
 This week i used Ai to help me learn functions and more about indexes
@@ -82,6 +91,8 @@ The function validate_record(title, author) ensures that both the title and auth
 
 
 
+
+
 WEEK 4 AI JOUNRAL
 this week I asked Ai to help me with classes.
 I also asked Ai to help me to debug certain errors
@@ -100,5 +111,34 @@ class ClassName:
     def method1(self):
         # code for behavior
         pass
+
+WEEK 5 AI JOURNAL
+This week I used AI to learn more about inheritance in Python. I asked questions about how one class can share attributes and methods with another.
+
+how does inheritance work in python
+AI said:
+Inheritance allows one class (child) to use the attributes and methods of another class (parent). You define it by putting the parent class name in parentheses.
+
+Example:
+class Animal:
+ def speak(self):
+  print("Animal sound")
+
+class Dog(Animal):
+ def speak(self):
+  print("Bark!")
+
+dog = Dog()
+dog.speak() # Bark!
+AI also helped me understand why inheritance is useful—it avoids code repetition and helps organize related classes better.
+
+
+
+
+
+
+
+
+
 
 
