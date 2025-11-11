@@ -180,11 +180,20 @@ p1.display_info()
 
 
 
+WEEK 8 JOURNAL
+This week I focused on polymorphism and subclass behavior in Python. I worked on understanding how the same method can act differently depending on the type of object.
 
+I practiced how to:
 
+Create subclass-specific methods, like a download_link() for EBook.
 
+Override methods such as loan_period_days() or late_fee() so different books or members have different behavior.
 
+Avoid using if/elif by letting each class handle its own logic, for example with checkout_message() or can_checkout().
 
+Sort books and calculate fees without checking types, letting the objects manage their own behavior.
+
+This helped me see how polymorphism makes code cleaner, easier to manage, and simple to extend with new types.
 
 
 
