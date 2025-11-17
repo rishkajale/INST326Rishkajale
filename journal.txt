@@ -197,6 +197,11 @@ This helped me see how polymorphism makes code cleaner, easier to manage, and si
 
 
 
+WEEK 9 AI JOURNAL 
+This week I used AI to help me understand abstract classes in Python and why they matter. I learned that abstract classes act like templates for other classes, setting up methods that subclasses are required to implement. AI explained that you can’t create an object directly from an abstract class because it isn’t complete on its own. Instead, it keeps my code organized by making sure all subclasses follow the same structure. Seeing examples that used the abc module helped me understand how the @abstractmethod decorator forces every subclass to include certain methods.
+I also asked AI how abstract classes show up in real projects, and the explanations made the idea clearer. It compared abstract classes to outlines that set the rules, while subclasses fill in the details depending on what they need to do. This connected well to our work in class, especially when we used different book types or loan rules that needed their own behavior but still shared a structure. Overall, I feel more comfortable with abstract classes now and understand how they can make code cleaner and easier to maintain.
+
+
 
 
 
