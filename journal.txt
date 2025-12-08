@@ -225,3 +225,9 @@ I also asked AI how exceptions connect to classes, and it explained that you can
 
 
 
+WEEK 12 AI JOURNAL
+This week I focused on putting together everything I’ve learned recently. I asked AI a few questions about how classes, inheritance, and exceptions fit into a bigger project. Instead of looking at them as separate topics, I wanted to understand how they work together in an actual program.
+
+AI helped me see how parent and child classes can share responsibilities and how each subclass can handle its own behavior without a lot of extra code. I also practiced using exceptions inside methods, which made it clearer how programs avoid crashing when something unexpected happens.
+
+Overall, this week helped me connect the pieces. I’m starting to understand how object-oriented design, polymorphism, and error handling all support each other when writing bigger, more organized code.
