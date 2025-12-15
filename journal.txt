@@ -232,7 +232,7 @@ AI helped me see how parent and child classes can share responsibilities and how
 
 Overall, this week helped me connect the pieces. I’m starting to understand how object-oriented design, polymorphism, and error handling all support each other when writing bigger, more organized code.
 
-WEEK 14 AI JOURNAL
+WEEK 13 AI JOURNAL
 
 This week I used AI mainly to review and tie together everything we learned this semester. I asked it to help me check my code, improve clarity, and make sure I was using classes, inheritance, and exceptions correctly.
 
