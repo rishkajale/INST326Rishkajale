@@ -231,3 +231,9 @@ This week I focused on putting together everything I’ve learned recently. I as
 AI helped me see how parent and child classes can share responsibilities and how each subclass can handle its own behavior without a lot of extra code. I also practiced using exceptions inside methods, which made it clearer how programs avoid crashing when something unexpected happens.
 
 Overall, this week helped me connect the pieces. I’m starting to understand how object-oriented design, polymorphism, and error handling all support each other when writing bigger, more organized code.
+
+WEEK 14 AI JOURNAL
+
+This week I used AI mainly to review and tie together everything we learned this semester. I asked it to help me check my code, improve clarity, and make sure I was using classes, inheritance, and exceptions correctly.
+
+AI also helped me spot small mistakes and understand better ways to organize my programs. Overall, it made me feel more confident in my Python skills and helped everything finally click together.
